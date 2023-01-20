@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'OnlineRecharge'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5B4751B6FA645C48780954D1D234D56 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A83E4E61C1E4513BC602AB4E01768A2 }}
           package: .
